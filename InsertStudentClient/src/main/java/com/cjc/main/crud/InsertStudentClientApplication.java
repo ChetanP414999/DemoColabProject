@@ -13,7 +13,7 @@ public class InsertStudentClientApplication {
 		
 	
 		System.out.println("main metho");
-		
+		System.out.println("main metho");
 	}
 
 }
