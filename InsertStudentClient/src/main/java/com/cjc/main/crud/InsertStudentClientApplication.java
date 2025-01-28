@@ -10,6 +10,9 @@ public class InsertStudentClientApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(InsertStudentClientApplication.class, args);
+		
+		
+		
 	}
 
 }
